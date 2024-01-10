@@ -2,3 +2,6 @@
 probando
 
 Estoy pranndo nueva App que hace cosas on git
+
+Esto lo agregue desde local
+
